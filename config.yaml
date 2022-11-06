@@ -21,7 +21,7 @@ params:
 
   # Provide your metadata here.
   name: Bed and Board Games
-  description: Play games. Get dates.
+  description: Eat. Sleep. Play.
 
   # Link custom assets relative to /static
   custom_css:
