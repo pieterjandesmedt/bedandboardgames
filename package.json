@@ -1,0 +1,24 @@
+{
+	"name": "bedandboardgames",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/pieterjandesmedt/bedandboardgames.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/pieterjandesmedt/bedandboardgames/issues"
+	},
+	"homepage": "https://github.com/pieterjandesmedt/bedandboardgames#readme",
+	"dependencies": {
+		"airtable": "^0.11.6",
+		"node-fetch": "^3.3.0"
+	}
+}
