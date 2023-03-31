@@ -5,15 +5,16 @@ date: 2023-03-30T18:42:08+02:00
 tags:
 images:
 weight: 5
+button: true
 ---
 
 De prijzen hieronder zijn **all-in** en omvatten:
 
-- een weekend lang overnachting,
+- een weekend overnachting: vrijdag tot zondag,
 - logistieke ondersteuning,
-- eten en drinken,
-- communicatie voor de start van het weekend over je wensen en
-- uiteraard --- het speladvies, de speluitleg en de begeleiding ter plaatse.
+- eten en drank,
+- aanpassing naar je wensen en
+- uiteraard --- speluitleg, speladvies en begeleiding.
 
 <!--more-->
 

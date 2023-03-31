@@ -5,6 +5,7 @@ date: 2023-03-30T18:44:22+02:00
 tags:
 images:
 weight: 6
+button: true
 ---
 
 Wil je graag eens bij Bed and Board Games op weekend komen, maar krijg je niet genoeg volk bij elkaar? Vind je het bovendien niet erg om spelletjes te spelen met mensen die je (nog) niet kent? Laat ons dan zeker iets weten!
