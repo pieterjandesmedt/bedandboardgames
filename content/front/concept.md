@@ -7,7 +7,7 @@ images:
 weight: 1
 ---
 
-Bed and Board Games combineert het bekende concept van een _weekendje uit_ met vrienden of familie, de service van een _all-in hotel_ en een gastheer die jullie vol enthousiasme meeneemt op een gegidste reis doorheen zijn bordspelcollectie.
+Bed and Board Games combineert het bekende concept van een _weekendje uit_ met vrienden of familie, de service van een _all-in hotel_ en een gastheer die jullie vol enthousiasme meeneemt op een gegidste reis doorheen zijn bordspelcollectie. Test
 
 <!--more-->
 
