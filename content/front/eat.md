@@ -13,7 +13,7 @@ Je kan er niet omheen: ook op weekend moet je eten. Koken neemt traditioneel een
 
 {{< figure src="/photos/DSC_6264.jpg" class="mx-0" caption="Een heel weekend geen zorgen over eten" >}}
 
-**Bed and Board Games** pakt het anders aan. Je gastheer Kevin zorgt tijdens je verblijf voor alle boodschappen en tovert zelf zowel ontbijt, middagmaal als avondmaal op tafel. Hij gebruikt hiervoor zoveel als mogelijk biologische gewassen en producten, en is gespecialiseerd in vegetarische gerechten. Het menu wordt altijd op voorhand besproken in overleg met de groep, net als je wensen op het gebied van drank, hapjes etc.
+**Bed and Board Games** pakt het anders aan. Je gastheer Kevin zorgt tijdens je verblijf voor alle boodschappen en tovert zelf zowel ontbijt, middagmaal als avondmaal op tafel. Hij gebruikt hiervoor zoveel als mogelijk biologische producten en is gespecialiseerd in vegetarische gerechten. Kevin bespreekt het menu altijd op voorhand met de groep, net als je wensen op het gebied van drank, hapjes etc.
 
 Kevin dekt ook de tafel, ruimt af, doet de afwas, veegt de vloer,... Kortom: hij doet alles, zodat je dat zelf niet hoeven te doen. Zo heb je alle tijd om van elkaar en van de board games te genieten.
 

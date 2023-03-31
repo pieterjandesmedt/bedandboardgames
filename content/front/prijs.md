@@ -17,7 +17,7 @@ De prijzen hieronder zijn **all-in** en omvatten:
 
 <!--more-->
 
-Zoals het altijd gaat op weekend: een vol huis betekent een goedkoper weekend per persoon. Om de impact van een last-minute afwezige evenwel niet al te groot te maken, werken we met twee prijsklassen:
+Zoals het altijd gaat op weekend: een vol huis betekent een goedkoper weekend per persoon. Daarom werken we met twee prijsklassen:
 
 ##### Prijzen:
 
