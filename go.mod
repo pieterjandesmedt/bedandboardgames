@@ -2,4 +2,4 @@ module hugo-theme-bedandboardgames
 
 go 1.15
 
-require github.com/pieterjandesmedt/hugo-theme-bedandboardgames v0.0.0-20230331095731-c75b2b94626e // indirect
+require github.com/pieterjandesmedt/hugo-theme-bedandboardgames v0.0.0-20230331102405-01de933c70a9 // indirect
