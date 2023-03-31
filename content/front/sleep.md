@@ -7,7 +7,9 @@ images:
 weight: 3
 ---
 
-Onze weekends vinden plaats in een gerenoveerde hoeve op een prachtig domein in Petegem-aan-de-Leie. Aankomen kan op vrijdag al vanaf de vroege vooravond én het staat je vrij om zelf te kiezen wanneer je op zondag vertrekt. Zo besteed je daadwerkelijk een _volledig_ weekend bij ons en kan je op zondag nog een stevige hoeveelheid spelletjesplezier beleven, want je hoeft maar 's avonds je koffers te pakken.
+Je weekend vindt plaats in een gerenoveerde hoeve op een prachtig domein in Petegem-aan-de-Leie. Aankomen kan op vrijdag al vanaf de vroege vooravond én het staat je vrij om zelf te kiezen wanneer je op zondag vertrekt.
+
+Zo besteed je daadwerkelijk een _volledig_ weekend bij ons en kan je op zondag nog een stevige hoeveelheid spelletjesplezier beleven, want je hoeft maar zondagavond je koffers te pakken.
 
 <!--more-->
 

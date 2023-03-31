@@ -15,7 +15,9 @@ Kevin legt alle spelletjes uit, waarna hij beschikbaar blijft voor tussentijdse 
 
 {{< figure src="/photos/DSC_6286.jpg" class="mx-0" caption="Kevin geeft speluitleg" >}}
 
-Kevin overlegt op voorhand met je groep over je spelletjesvoorkeuren en hoe je het weekend graag wil vormgeven (bv. veel pauze, of toch gewoon stevig doorspelen?). Op basis daarvan stelt hij een spelletjesprogramma op, dat tijdens het weekend zelf kan evolueren. Als je het allemaal niet zo goed weet, dan schotelt Kevin je een gevarieerde mix van spelletjes voor en wordt het een weekend vol ontdekkingen!
+Kevin overlegt op voorhand met je groep over je spelletjesvoorkeuren en hoe je het weekend graag wil vormgeven (bv. veel pauze, of toch gewoon stevig doorspelen?). Op basis daarvan stelt hij een spelletjesprogramma op, dat tijdens het weekend zelf kan evolueren.
+
+Als je het allemaal niet zo goed weet, schotelt Kevin je een gevarieerde mix van spelletjes voor en wordt het een weekend vol ontdekkingen!
 
 {{< figure src="/photos/DSC_6317.jpg" class="mx-0" caption="Een deel van de uitgebreide collectie" >}}
 
