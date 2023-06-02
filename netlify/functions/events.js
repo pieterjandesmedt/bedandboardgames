@@ -20,8 +20,8 @@ exports.handler = async (event, context) => {
 
 	try {
 		const results = await eventsTable.select({
-			// Selecting the first 12 records in Grid view:
-			maxRecords: 12,
+			// Selecting the first 100 records in Grid view:
+			maxRecords: 100,
 			view: "Grid view",
 			fields,
 			sort,
